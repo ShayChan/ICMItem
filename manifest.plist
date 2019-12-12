@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>https://talent.gpossible.com/omt_resource/icm/ios/DawsonICMItem.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>https://talent.gpossible.com/omt_resource/icm/ios/57pt.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>https://talent.gpossible.com/omt_resource/icm/ios/512pt.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
